@@ -5,8 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start01": "node desafio02/index01.js",
-    "start02": "node desafio02/index02.js",
+    "open": "node solid/openClosedPrinciple.js",
+    "single": "node solid/singleResponsibilityPrinciple.js",
     "problem_adapter": "node desafio02/problemAdapter.js",
     "problem_bridge": "node desafio02/problemBridge.js",
     "problem_composite": "node desafio02/problemComposite.js",
